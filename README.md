@@ -58,12 +58,3 @@ pip install -r requirements.txt
 
 3. Run the cells step by step to follow the full workflow.
 
-## Author
-
-**Siddharthan P S**
-
-Feel free to connect or fork the repo if you want to explore or expand the project further.
-
----
-
-Let me know if you want to add a license, badges, or a section about future work or improvements.
