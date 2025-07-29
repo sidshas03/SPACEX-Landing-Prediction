@@ -46,7 +46,7 @@ pip install -r requirements.txt
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/SPACEX-Landing-Prediction.git
+   git clone https://github.com/sidshas03/SPACEX-Landing-Prediction.git
    cd SPACEX-Landing-Prediction
    ```
 
